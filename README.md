@@ -11,7 +11,7 @@
 ## 패미컴
 
 - 갑자원
-- 고양이 당인정 테얀데
+- 고양이 당인전 테얀데
 - 근육맨 머슬 태그 매치 ([프로워](https://blog.naver.com/PostView.nhn?blogId=darbyeot&logNo=221631623926&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)님 한글 패치로고 사용)
 - 드래곤볼 - 신룡의 수수께끼
 - 드래곤볼 2 - 대마왕 부활
