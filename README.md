@@ -220,6 +220,8 @@
 - 포켓 몬스터 - 리프 그린 ([BBM](https://cafe.naver.com/hansicgu/24501)님 작품)
 - 포켓 몬스터 - 에메랄드 ([BBM](https://cafe.naver.com/hansicgu/24501)님 작품 수정)
 - 피안화
+- 황금의 태양 1 - 열려진 봉인
+- 황금의 태양 2 - 잃어버린 시대
 
 
 
