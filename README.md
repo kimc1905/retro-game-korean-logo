@@ -322,6 +322,12 @@
 
 
 
+## 네오지오 포켓
+
+- SNK vs. Capcom - 카드파이터즈 2 Expand Edition
+
+
+
 ## 플레이스테이션
 
 - 두근두근 메모리얼 2 서브스토리즈 1 - Dancing Summer Vacation
